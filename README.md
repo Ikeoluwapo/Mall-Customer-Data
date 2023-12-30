@@ -1,5 +1,5 @@
 # Mall Customer
-# Gender prediction
+
 ## Introduction
 Aim: To group customers into categories based on patterns inorder to know those to target more for adverts and those likely to come back to visit the mall.
 
@@ -12,7 +12,7 @@ Size: [4,286 bytes]
 
 Columns: [CustomerID,	Genre,	Age,	Annual Income (k$),	Spending Score (1-100)] 
 
-Models used: KMeansa and Hierarchical Clustering
+Models used: KMeans and Hierarchical Clustering for Unsupervised Learning
 
 ## Skills Demonstrated
 * Python, Pandas, Numpy, Matplotlib, Seaborn, Streamlit
